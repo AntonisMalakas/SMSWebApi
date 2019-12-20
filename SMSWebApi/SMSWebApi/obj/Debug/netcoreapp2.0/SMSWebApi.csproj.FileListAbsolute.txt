@@ -1,0 +1,15 @@
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\Abstract.dll
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\Core.dll
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\SMSWebApi.deps.json
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\SMSWebApi.runtimeconfig.json
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\SMSWebApi.runtimeconfig.dev.json
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\SMSWebApi.dll
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\SMSWebApi.pdb
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\Core.pdb
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\bin\Debug\netcoreapp2.0\Abstract.pdb
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.dll
+c:\users\a.haddad\source\repos\SMSWebApi\SMSWebApi\obj\Debug\netcoreapp2.0\SMSWebApi.pdb

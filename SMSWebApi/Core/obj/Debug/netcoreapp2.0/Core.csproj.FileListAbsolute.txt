@@ -1,0 +1,11 @@
+c:\users\a.haddad\source\repos\SMSWebApi\Core\bin\Debug\netcoreapp2.0\Abstract.dll
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\SMSWebApi\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+c:\users\a.haddad\source\repos\SMSWebApi\Core\bin\Debug\netcoreapp2.0\Core.dll
+c:\users\a.haddad\source\repos\SMSWebApi\Core\bin\Debug\netcoreapp2.0\Core.pdb
+c:\users\a.haddad\source\repos\SMSWebApi\Core\bin\Debug\netcoreapp2.0\Abstract.pdb
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.dll
+c:\users\a.haddad\source\repos\SMSWebApi\Core\obj\Debug\netcoreapp2.0\Core.pdb
